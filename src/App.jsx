@@ -54,7 +54,7 @@ const App = () => (
               DEC 20
             </Text>
           </Text>
-          <Tag backgroundColor="red">Expired</Tag>
+          <Tag style={{ backgroundColor: "red" }}>Expired</Tag>
         </CardHeader>
         <CardBody>
           <div>
@@ -94,7 +94,7 @@ const App = () => (
               JAN 20
             </Text>
           </Text>
-          <Tag backgroundColor="purple">Open</Tag>
+          <Tag style={{ backgroundColor: "purple" }}>Open</Tag>
         </CardHeader>
         <CardBody>
           <div>
