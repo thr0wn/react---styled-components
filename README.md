@@ -1,7 +1,7 @@
-[![](https://img.shields.io/badge/-React.js-black?logo=react)]()
-[![](https://img.shields.io/badge/-Styled%20Components-black?logo=styled-components)]()
-[![](https://img.shields.io/badge/-Babel-black?logo=babel)]()
-[![](https://img.shields.io/badge/-Webpack-black?logo=webpack)]()
+[![](https://img.shields.io/badge/-React.js-black?logo=react)](https://react.dev/)
+[![](https://img.shields.io/badge/-Styled%20Components-black?logo=styled-components)](https://styled-components.com/)
+[![](https://img.shields.io/badge/-Babel-black?logo=babel)](https://babeljs.io/)
+[![](https://img.shields.io/badge/-Webpack-black?logo=webpack)](https://webpack.js.org/)
 
 # React + Styled Components + Babel + Webpack
 > Use as template for your project.
