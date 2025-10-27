@@ -1,10 +1,10 @@
-# React + Styled Components + Babel + Webpack
-> Use as template for your project.
-
 [![](https://img.shields.io/badge/-React.js-black?logo=react)]()
 [![](https://img.shields.io/badge/-Styled%20Components-black?logo=styled-components)]()
 [![](https://img.shields.io/badge/-Babel-black?logo=babel)]()
 [![](https://img.shields.io/badge/-Webpack-black?logo=webpack)]()
+
+# React + Styled Components + Babel + Webpack
+> Use as template for your project.
 
 ## Commands
 ### Install dependencies
